@@ -6,11 +6,11 @@
 }
 
 body{
-    background-color: aliceblue;
+    background-color: plum;
 }
 
 main{
-    background-color: rgb(235, 232, 232);
+    background-color: white;
     width: 500px; /*largura*/
     margin: auto;
     padding: 10px;
