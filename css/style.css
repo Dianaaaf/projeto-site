@@ -32,3 +32,24 @@ h2{
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+.lado{
+    width: 120px;
+    height: 120px;
+    float: right;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
