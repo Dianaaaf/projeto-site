@@ -16,3 +16,19 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px black;
 }
+
+h1{
+    font-size: 22px;
+    text-align: center;
+    color: purple;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+}
+
+h2{
+    color: palevioletred;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
