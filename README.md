@@ -1,2 +1,7 @@
-# projeto-site
-Projeto de um site criado durante uma aula de Branches, do CursoEmVideo, de Git e GitHub.
+# Projeto Site
+### Site criado durante uma aula de Branches, do Curso em Vídeo, sobre Git e GitHub.
+
+#### Aqui você verá 3 branches
+* Main/ master;
+* Conteúdo = onde alterei todo o texto apenas nele;
+*  Design = onde criei o CSS.
